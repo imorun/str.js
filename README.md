@@ -17,7 +17,7 @@
 
 以下のリンクからダウンロードしてください：
 
-[**v1.0.2をダウンロード**](https://github.com/imorun/str.js/archive/refs/tags/v1.0.2.zip)
+[**v1.0.2をダウンロード**](https://github.com/imorun/str.js/archive/refs/tags/v1.0.3.zip)
 
 また、Gitでクローンすることもできます：
 
@@ -42,7 +42,7 @@ git clone https://github.com/imorun/str.js.git
 
 Download from the link below:
 
-[**Download v1.0.2**](https://github.com/imorun/str.js/archive/refs/tags/v1.0.2.zip)
+[**Download v1.0.2**](https://github.com/imorun/str.js/archive/refs/tags/v1.0.3.zip)
 
 You can also clone it with Git:
 
