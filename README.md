@@ -23,6 +23,7 @@
 
 ```bash
 git clone https://github.com/imorun/str.js.git
+```
 
 # english
 
