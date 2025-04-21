@@ -11,8 +11,8 @@ function Lower(text) {
 }
 
 function AddMark(text, mark, position = "end") {
-    if (position === "st") return mark + text;
-    if (position === "ed") return text + mark;
+    if (position === "st" || position === "start") return mark + text;
+    if (position === "ed" || position === "end") return text + mark;
     if (typeof position === "number") {
         return text.slice(0, position) + mark + text.slice(position);
     }
