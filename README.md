@@ -2,7 +2,7 @@
 
 [**Download v1.0.5.1 str.js**](https://github.com/imorun/str.js/releases/download/v1.0.5.1/str.js)
 
-[**English explanation**](?tab=readme-ov-file#englishVersion)
+[**English explanation**](?tab=readme-ov-file#english-Version)
 
 # 日本語版
 
