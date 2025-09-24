@@ -34,7 +34,7 @@ git clone https://github.com/imorun/str.js.git
 
 | 関数名                    | 説明                                                                                     |
 |--------------------------|-----------------------------------------------------------------------------------------|
-| `Str(text)`               | 任意の値を文字列に変換します。<br>**変換前に数値やオブジェクトがあっても文字列に変換することができます。**           |
+| `str(text)`               | 任意の値を文字列に変換します。<br>**変換前に数値やオブジェクトがあっても文字列に変換することができます。**           |
 | `Upper(text)`             | 文字列をすべて大文字に変換します。<br>**例: "hello" → "HELLO"**                               |
 | `Lower(text)`             | 文字列をすべて小文字に変換します。<br>**例: "HELLO" → "hello"**                               |
 | `AddMark(text, mark, position)` | 文字列の指定した位置にマーク（`mark`）を追加します。<br>`position`には `"start"か"st"`, `"end"か"ed"`, または整数を指定できます。<br>**例: `"hello" → "★hello"`, `"hello" → "hello★"`** |
@@ -77,7 +77,7 @@ git clone https://github.com/imorun/str.js.git
 
 | Function Name            | Description                                                                                     |
 |--------------------------|-------------------------------------------------------------------------------------------------|
-| `atr(text)`               | Converts any value to a string.<br>**Can convert numbers, objects, etc., into a string.**        |
+| `str(text)`               | Converts any value to a string.<br>**Can convert numbers, objects, etc., into a string.**        |
 | `Upper(text)`             | Converts the string to uppercase.<br>**Example: "hello" → "HELLO"**                               |
 | `Lower(text)`             | Converts the string to lowercase.<br>**Example: "HELLO" → "hello"**                               |
 | `AddMark(text, mark, position)` | Adds a mark (`mark`) at a specified position.<br>You can specify `"start"or"st"`, `"end"or"ed"`, or a number for `position`.<br>**Example: `"hello" → "★hello"`, `"hello" → "hello★"`** |
