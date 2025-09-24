@@ -22,6 +22,10 @@ function str(text) {
     return String(text);
 }
 
+function Str(text) {
+    return String(text);
+}
+
 function Upper(text) {
     return text.toUpperCase();
 }
