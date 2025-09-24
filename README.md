@@ -1,6 +1,6 @@
 # str.js
 
-[**Download v1.0.5**](https://github.com/imorun/str.js/archive/refs/tags/v1.0.5.zip)
+[**Download v1.0.5.1 str.js**](https://github.com/imorun/str.js/releases/download/v1.0.5.1/str.js)
 
 # 日本語
 
@@ -19,7 +19,7 @@
 
 以下のリンクからダウンロードしてください：
 
-[**v1.0.5をダウンロード**](https://github.com/imorun/str.js/archive/refs/tags/v1.0.5.zip)
+[**v1.0.5.1のstr.jsをダウンロード**](https://github.com/imorun/str.js/releases/download/v1.0.5.1/str.js)
 
 また、Gitでクローンすることもできます：
 
@@ -62,7 +62,7 @@ git clone https://github.com/imorun/str.js.git
 
 Download from the link below:
 
-[**Download v1.0.5**](https://github.com/imorun/str.js/archive/refs/tags/v1.0.5.zip)
+[**Download v1.0.5.1 str.js**](https://github.com/imorun/str.js/releases/download/v1.0.5.1/str.js)
 
 You can also clone it with Git:
 
