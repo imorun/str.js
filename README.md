@@ -1,9 +1,10 @@
 # str.js
 
-[**Download v1.0.5.1 str.js**](https://github.com/imorun/str.js/releases/download/v1.0.5.1/str.js)
+[![Release Downloads](https://img.shields.io/github/downloads/imorun/str.js/total?style=flat-square)](https://github.com/imorun/str.js/releases)  
+[**Download v1.0.5.1 str.js**](https://github.com/imorun/str.js/releases/download/v1.0.5.1/str.js)  
+[**English explanation**](#english-Version)
 
-[**English explanation**](?tab=readme-ov-file#english-Version)
-
+---
 # 日本語版
 
 **str.js**は、文字列操作を簡単に行える軽量で柔軟なJavaScriptライブラリです。このツールは、文字列のフォーマットを簡単に行うことができるツールです。
