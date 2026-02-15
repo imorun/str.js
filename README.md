@@ -1,7 +1,7 @@
 # str.js
 
 [![Release Downloads](https://img.shields.io/github/downloads/imorun/str.js/total?style=flat-square)](https://github.com/imorun/str.js/releases)  
-[**Download v1.0.6 str.js**](https://github.com/imorun/str.js/releases/download/v1.0.6/str.js)  
+#[**Download v1.0.6 str.js**](https://github.com/imorun/str.js/releases/download/v1.0.6/str.js)  
 [**English explanation**](#english-Version)
 
 ---
